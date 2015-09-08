@@ -10,6 +10,8 @@
 
 <img width="1280" alt="screen shot 2015-09-02 at 12 27 55 pm" src="https://cloud.githubusercontent.com/assets/14082101/9641915/19781d14-516e-11e5-9cae-2a59dfafecaf.png">
 
+EXCERCISE B
+
 # This will calculate the mean of 10 random standard normal variables.
 mean(rnorm(10))  
 # shortcut select/block-command enter
